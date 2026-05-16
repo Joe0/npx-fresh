@@ -1,5 +1,8 @@
 # npx-fresh
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Node.js Version](https://img.shields.io/badge/node-%3E%3D18-brightgreen)](package.json)
+
 Zero-config Node.js project scaffolder. Ship new projects in seconds, not hours.
 
 ## Features
