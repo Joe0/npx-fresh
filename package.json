@@ -1,0 +1,21 @@
+{
+  "name": "npx-fresh",
+  "version": "1.0.0",
+  "description": "Fresh Node.js projects in 10 seconds. No config, just code.",
+  "main": "cli.js",
+  "bin": {
+    "fresh": "./cli.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["scaffolder", "generator", "boilerplate", "starter", "template", "cli"],
+  "author": "Ironbond LLC",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
