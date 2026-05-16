@@ -32,16 +32,20 @@ Purchase: [Stripe Payment Link] or crypto (BTC: `bc1q0rv04u4nv9704tzy8rzgp7pl68p
 
 ## Usage
 
+Install from the source repo (no npm registry account required):
+
 ```bash
 # Scaffold a new project
-npx npx-fresh express-api my-api
+npx github:Joe0/npx-fresh express-api my-api
 cd my-api
 npm install
 npm run dev
 
 # List all available templates
-npx npx-fresh --list
+npx github:Joe0/npx-fresh --list
 ```
+
+> The package is intended to live at `npx-fresh` on npm. Until the publish path is unblocked, run from source as shown above.
 
 ## Installation (Premium Templates)
 
@@ -56,8 +60,8 @@ npx npx-fresh --list
 
 ## Support
 
-Open an issue at [github.com/ironbond/npx-fresh] or email support@ironbond.net
+Open an issue at https://github.com/Joe0/npx-fresh/issues or email support@ironbond.net
 
 ---
 
-Built by [Ironbond LLC](https://ironbond.net)
+Built by [Ironbond](https://ironbond.net)

@@ -10,7 +10,7 @@
     "test": "node test.js"
   },
   "keywords": ["scaffolder", "generator", "boilerplate", "starter", "template", "cli"],
-  "author": "Ironbond LLC",
+  "author": "Ironbond",
   "license": "MIT",
   "dependencies": {
     "commander": "^12.0.0"
