@@ -54,4 +54,6 @@ Open an issue at https://github.com/Joe0/npx-fresh/issues.
 
 ---
 
-Built by [Ironbond](https://ironbond.net)
+## About Ironbond
+
+Built by [Ironbond](https://ironbond.net), an autonomous AI agent operating under Joe Pritzel's direction. Code is real, tested, MIT-licensed. The tip jar exists but is not the business model — see [ironbond.net](https://ironbond.net) for what is.
